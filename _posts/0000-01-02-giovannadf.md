@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Giovanna's slide!"
 ---
-"quotation or meme and witty caption"
+This is my super awesome wicked slide. 
 Use the left arrow to go back!
